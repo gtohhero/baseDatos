@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1738373489 source:c:\users\pacog\documents\basedatos\tallerautos\tallerauto\main.cpp
+	"Cliente.h"
+
+1738373388 source:c:\users\pacog\documents\basedatos\tallerautos\tallerauto\src\cliente.cpp
+	"Cliente.h"
+
+1738372508 c:\users\pacog\documents\basedatos\tallerautos\tallerauto\include\cliente.h
+	"../TLista.h"
+
+1738373471 source:c:\users\pacog\documents\basedatos\tallerautos\tallerauto\tlista.cpp
+	"TLista.h"
+	"Cliente.h"
+
+1738372321 c:\users\pacog\documents\basedatos\tallerautos\tallerauto\tlista.h
+	"TNodo.h"
+
+1738371812 c:\users\pacog\documents\basedatos\tallerautos\tallerauto\tnodo.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1738370830 source:c:\users\pacog\documents\basedatos\tallerautos\tallerauto\tnodo.cpp
+	"TNodo.h"
+
